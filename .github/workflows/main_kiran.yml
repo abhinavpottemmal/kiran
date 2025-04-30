@@ -55,4 +55,4 @@ jobs:
           app-name: 'kiran'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_071096705B2E4ADDADFB6A7DE3B80ED4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_494F78C0845441D5AEF9464F0EAD4AC9 }}
